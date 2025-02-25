@@ -16,7 +16,7 @@
         <em>Frustrating. Confusing. Trying.</em> Struggling.<br>
         Until one day, you walk.<br>
         One foot in front of the other. One idea on top of the next.<br>
-        Each wrong answer making your brain a little bit stronger.<br>
+        Each <strong>wrong</strong> answer making your brain a little bit stronger.<br>
         Failing is just another word for growing. And you keep going.<br>
         This. is. learning.<br>
         It’s not that you don’t get it. <br>
